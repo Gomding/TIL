@@ -15,7 +15,8 @@
 # 테스트 모델
 유저(**User**)가 있고 글(**Feed**), 댓글(**Comment**), 댓글 좋아요(**CommentLike**)가 존재합니다.  
 댓글에 대한 대댓글은 자기 참조 테이블처럼 자기 자신을 참조하는 것으로 **List< Comment > reply** 필드로 가지고 있습니다.  
-![img.png](img.png)
+![Untitled Diagram](https://user-images.githubusercontent.com/57378410/132387072-428f287f-90aa-4960-bded-f9417508bf16.png)
+
 
 ```java
 @Entity
