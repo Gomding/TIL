@@ -3,4 +3,4 @@
 ## Spring
 
 ### Spring data JPA
-* Cascade.DELETE, orphanremoval=true 왜 원하는대로 동작을 안할까?
+* [Entity 객체 삭제 왜 원하는대로 동작을 안할까?](Spring/SpringDataJPA/Why_cannot_i_remove_entity.md)
