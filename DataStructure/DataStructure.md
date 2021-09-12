@@ -1,7 +1,6 @@
 # DataStructure
 * Array
 * LinkedList
-* 
 
 ## Array
 논리적 저장 순서와 물리적 저장 순서가 일치합니다.    
