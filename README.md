@@ -14,7 +14,7 @@
 * [Entity 객체 삭제 왜 원하는대로 동작을 안할까?](Spring/SpringDataJPA/Why_cannot_i_remove_entity.md)
 
 ## Tech-Interview
-### [DataStructure](DataStructure/DataStructure.md)
+### [DataStructure](Tech_Interview/DataStructure.md)
 * Array (배열)
 * LinkedList
 * HashTable
