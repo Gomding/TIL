@@ -14,6 +14,7 @@
 
 ### SpringDataJPA
 * [Entity 객체 삭제 왜 원하는대로 동작을 안할까?](Spring/SpringDataJPA/Why_cannot_i_remove_entity.md)
+* [카테시안 곱 언제 발생하는가?](Spring/SpringDataJPA/Cartesian_Product.md)
 
 ## Tech-Interview
 ### [DataStructure](Tech_Interview/DataStructure.md)
