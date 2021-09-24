@@ -1,8 +1,10 @@
 # TIL (Today I Learn)
 * [Java](#Java)
 * [Spring](#Spring)
-  * [Spring Data JPA](#SpringDataJPA)
+  - [Spring Data JPA](#SpringDataJPA)
 * [Tech-Interview](#Tech-Interview)
+  - [DataStructure](#DataStructure)
+  - [Database](#Database)
 
 ## Java
 * [File, IOStream, Thread](Java/File_IOStream_Thread.md)
@@ -18,3 +20,5 @@
 * Array (배열)
 * LinkedList
 * HashTable
+### [Database](Tech_Interview/Database.md)
+* Connection
