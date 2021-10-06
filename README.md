@@ -24,3 +24,9 @@
 ### [Database](Tech_Interview/Database.md)
 * Connection
 * Index
+### [Operating_System](Tech_Interview/Operating_System.md)
+* Kernel
+* Process VS Thread
+* 멀티 프로세스 대신 멀티 스레드를 사용하는 이유
+* 사용자 프로그램은 어떻게 입출력을 하는가?
+
