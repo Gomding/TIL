@@ -188,7 +188,7 @@ B-Tree
 - 같은 높이를 유지하기 때문에 어떤 데이터를 조회해도 비슷한 시간이 걸리는게 특징 = 균일성
 - 브랜치 노드에서도 '키-값'의 형태로 있어서 데이터를 더 빨리 찾을 수 있다. → 키-값을 가지는 만큼 용량은 더 크므로 데이터의 숫자가 줄어듬 → 트리의 높이는 더 크다
 
-![img_3.png](img_3.png)
+![img_3.png](image/img_3.png)
 
 B+Tree
 
@@ -199,7 +199,7 @@ B+Tree
 - 같은 레벨의 노드끼리는 Doubly-LinkedList로 연결됨
 - 자식 노드와는 Singly-LinkedList로 연결됨
 
-![img_2.png](img_2.png)
+![img_2.png](image/img_2.png)
 
 [InnoDB](https://blog.jcole.us/innodb/)
 
